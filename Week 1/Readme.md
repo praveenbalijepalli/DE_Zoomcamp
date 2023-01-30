@@ -1,7 +1,7 @@
 ## Docker-SQL
    ```
     Operating System:               Linux(Ubuntu)
-    Code:                           https://github.com/praveenbalijepalli/DE_Zoomcamp/blob/main/Week%201/week_1_docker_sql/week_1_docker_sql%20.ipynb
+    Code:                           (https://github.com/praveenbalijepalli/DE_Zoomcamp/blob/main/Week%201/week_1_docker_sql/week_1_docker_sql%20.ipynb)
     Environment Setup:              conda create -n DE python=3.9
                                     conda activate DE
                                     conda install -c conda-forge pandas sqlalchemy jupyter pgcli
