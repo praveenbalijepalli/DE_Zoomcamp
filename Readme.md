@@ -1,6 +1,6 @@
 
 # Assignments
-1. Week 1 
+1. Week 1 <br>
    a. Docker-SQL:
     ```
     Operating System:               Linux(Ubuntu)
