@@ -1,4 +1,4 @@
-a. Docker-SQL:
+1. Docker-SQL: <br>
     ```
     Operating System:               Linux(Ubuntu)
     Code:                           week_1_docker_sql.ipynb
@@ -18,4 +18,5 @@ a. Docker-SQL:
                                     
    Command to run pgcli          :  pgcli -h localhost -p 5432 -u root -W root -d ny_taxi
    ```
-   b. GCP-Terraform:
+   
+2. GCP-Terraform:
