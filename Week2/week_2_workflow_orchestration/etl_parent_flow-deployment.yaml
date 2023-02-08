@@ -8,7 +8,7 @@ version: ca74cb2ffa887ef0132dd8c8888efb39
 work_queue_name: default
 work_pool_name: null
 tags: []
-parameters: {}
+parameters: {"months":[2, 3], "year": 2019, "color":"yellow"}
 schedule: null
 is_schedule_active: null
 infra_overrides: {}
