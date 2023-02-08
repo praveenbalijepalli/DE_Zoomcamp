@@ -1,7 +1,7 @@
 ## Workflow Orchestration with Prefect
    ```
     Operating System:               Linux(Ubuntu)/Windows
-    Code:                           https://github.com/praveenbalijepalli/DE_Zoomcamp/blob/main/Week%201/week_2_workflow_orchestration/week_2_workflow_orchestration.ipynb
+    Code:                           https://github.com/praveenbalijepalli/DE_Zoomcamp/blob/main/Week2/week_2_workflow_orchestration/week_2_workflow_orchestration.ipynb
     Environment Setup:              conda create -n DE python=3.9
                                     conda activate DE
                                     pip install -r requirements.txt
