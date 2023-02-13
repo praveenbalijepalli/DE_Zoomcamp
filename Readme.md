@@ -8,7 +8,7 @@
    a. Workflow Orchestration: https://github.com/praveenbalijepalli/DE_Zoomcamp/tree/main/Week2/week_2_workflow_orchestration<br>
    
 3. Week 3: https://github.com/praveenbalijepalli/DE_Zoomcamp/tree/main/Week3 <br>
-   a. Data Warehousing: https://github.com/praveenbalijepalli/DE_Zoomcamp/tree/main/Week3/week_3_workflow_orchestration<br>  
+   a. Data Warehousing: https://github.com/praveenbalijepalli/DE_Zoomcamp/tree/main/Week3/week_3_data_warehouse<br>  
    
                      
                  
