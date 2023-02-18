@@ -1,7 +1,7 @@
 ## Data Warehousing
    ```
     Operating System:               Windows
-    Code:                           https://github.com/praveenbalijepalli/DE_Zoomcamp/blob/main/Week2/week_3_data_warehouse/week_3_data_warehouse.ipynb
+    Code:                           https://github.com/praveenbalijepalli/DE_Zoomcamp/blob/main/Week3/week_3_data_warehouse/week_3_data_warehouse.ipynb
     Environment Setup:              conda create -n DPhi-DE python=3.9
                                     conda activate DPhi-DE
                                     pip install -r requirements.txt
