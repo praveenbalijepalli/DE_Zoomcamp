@@ -10,7 +10,11 @@
 3. Week 3: https://github.com/praveenbalijepalli/DE_Zoomcamp/tree/main/Week3 <br>
    a. Data Warehousing: https://github.com/praveenbalijepalli/DE_Zoomcamp/tree/main/Week3/week_3_data_warehouse<br>  
    
-                     
+4.
+
+
+5. Week 5: https://github.com/praveenbalijepalli/DE_Zoomcamp/tree/main/Week5 <br>
+   a. Batch Processing: https://github.com/praveenbalijepalli/DE_Zoomcamp/tree/main/Week5/week_5_batch_processing <br>  
                  
     
        
