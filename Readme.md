@@ -15,6 +15,9 @@
 
 5. Week 5: https://github.com/praveenbalijepalli/DE_Zoomcamp/tree/main/Week5 <br>
    a. Batch Processing: https://github.com/praveenbalijepalli/DE_Zoomcamp/tree/main/Week5/week_5_batch_processing <br>  
+   
+6. Week 6: https://github.com/praveenbalijepalli/DE_Zoomcamp/tree/main/Week6 <br>
+   a. Stream Processing: https://github.com/praveenbalijepalli/DE_Zoomcamp/tree/main/Week6/week_6_stream_processing <br> 
                  
     
        
